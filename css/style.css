@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Graduate');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web&subset=latin-ext');
+
+body {
+    text-align: center;
+    background: url('https://image.ibb.co/k0geWw/bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+input[type="text"]
+{
+    background: transparent;
+    border: 1px solid dodgerblue;
+    color: #fff;
+    padding: 5px;
+}
+#search {
+    padding: 4px;
+    color: #fff;
+    background-color: red;
+    border: none;
+    font-weight: bold;
+    border-radius: 7px;
+}
+h1 {
+    font-family: 'Graduate', cursive;
+    font-size: 40px;
+    font-weight: bold;
+    color: #fff;
+    padding: 20px;
+}
+tr {
+    background-color: rgba(255,255,255,0.7);
+}
+.table {
+    margin-top: 60px;
+}
+.container {
+    padding-bottom: 40%;
+}
