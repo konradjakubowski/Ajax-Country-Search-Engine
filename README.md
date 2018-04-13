@@ -1,2 +1,3 @@
-# Konrad_Jakubowski_Portfolio
-JQuery/Ajax Country Search Engine vol.2
+A Portfolio Project. Country Search Engine created using JavaScript, JQuery, Ajax and API:
+
+https://konradjakubowski.github.io/country-search-app/
