@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Graduate');
-@import url('https://fonts.googleapis.com/css?family=Titillium+Web&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Tajawal');
 
 body {
     text-align: center;
@@ -17,12 +17,15 @@ input[type="text"]
     padding: 5px;
 }
 #search {
-    padding: 4px;
+    padding: 7px;
     color: #fff;
     background-color: red;
     border: none;
     font-weight: bold;
     border-radius: 7px;
+}
+#search:hover {
+    background-color: #D87E7E;
 }
 h1 {
     font-family: 'Graduate', cursive;
@@ -30,6 +33,13 @@ h1 {
     font-weight: bold;
     color: #fff;
     padding: 20px;
+    margin-top: 50px;
+}
+p {
+    color: #fff;
+    font-size: 20px;
+    margin-top: 25px;
+    font-family: 'Tajawal', sans-serif;
 }
 tr {
     background-color: rgba(255,255,255,0.7);
